@@ -1,0 +1,6 @@
+[submodule "frontend-app"]
+	path = frontend-app
+	url = https://github.com/KostasTsili/reskill-frontend-app.git
+[submodule "backend-app"]
+	path = backend-app
+	url = https://github.com/KostasTsili/reskill-backend-app.git
